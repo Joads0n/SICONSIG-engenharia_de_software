@@ -1,6 +1,6 @@
 # SICONSIG
 
-Projeto acadêmico da Faculdade de Ciência da Computação da cadeira de Engenharia de Software, feito apartir de pesquisas de campo de modelos estabelecidos.
+Projeto acadêmico da Faculdade de Ciência da Computação da cadeira de Engenharia de Software, feito apartir de pesquisas de campo e de modelos estabelecidos.
 
 ## 🚀 Tecnologias
 
