@@ -7,7 +7,7 @@ Projeto acadêmico da Faculdade de Ciência da Computação da cadeira de Engenh
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - Delphin 7
-- Firebird
+- [Firebird](https://firebirdsql.org/en/firebird-rdbms/)
 
 ## 💻 Projeto
 
